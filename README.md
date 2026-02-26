@@ -1,4 +1,4 @@
-# Employee Management – Full Stack (Spring Boot + React)
+# Enterprise Workforce Tracking solution– Full Stack (Spring Boot + React)
 
 This is a presentation-ready Employee Management project.
 
